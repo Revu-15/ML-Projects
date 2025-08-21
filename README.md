@@ -1,6 +1,6 @@
 # 🚀 Resume-Worthy Machine Learning Projects (End-to-End)
 
-**POLAMREDDY REVANTH REDDY – June 2025**
+**POLAMREDDY REVANTH REDDY – AUGUST 2025**
 
 ---
 
