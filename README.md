@@ -2,8 +2,6 @@
 
 This project implements a machine learning solution for classifying Iris flowers into their respective species using both K-Nearest Neighbors (KNN) and Decision Tree algorithms. The project includes model training, evaluation, and an interactive Streamlit web application for real-time predictions.  
 
-## 🌐 Live Demo  
-Check out the live application here: [Iris Flower Classification Web App](https://mlprojects-84fctxn26daoh28s6ueieg.streamlit.app/)  
 
 ## 📊 Dataset  
 
